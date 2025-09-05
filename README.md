@@ -112,7 +112,7 @@ Preview shown is part of the development process. The final version was managed 
   <a href="https://www.linkedin.com/in/estefania-alvarez-828947303/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
   </a>
-  <a href="mailto:alvare.estefania.dev@gmail.com" target="_blank">
+  <a href="mailto:alvarez.estefania.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img>
   </a>
 </div>
